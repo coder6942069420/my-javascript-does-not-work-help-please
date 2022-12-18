@@ -1,0 +1,7 @@
+* {
+  cursor: var(--current-cursor);
+}
+
+:root {
+  --current-cursor: cursor;
+}
